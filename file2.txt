@@ -6,6 +6,6 @@ commit for file2 feb9
 
 commit for file2 feb9
 
-commit for file1 feb9
+commit for file2 feb9
 
 commit for file2 feb9
